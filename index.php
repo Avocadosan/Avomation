@@ -15,7 +15,7 @@
 	
 
 	<div class="header">
-		<h1><img class="logo" src="logo.png"  > Avomation <img  class="logo" src="logo.png" ></h1>
+		<h1><img class="logo" src="images/logo.png"  > Avomation <img  class="logo" src="images/logo.png" ></h1>
 		
 	</div>
 	
