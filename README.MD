@@ -10,6 +10,6 @@ You can send the commands with the web portal
 
 <img src="https://i.gyazo.com/d815988f7a9d70c1c866a8d39491874c.png"  style="width:150px;height:150px;">
 
-It's reponsive!
+It's responsive!
 
 <img src="http://i.imgur.com/1UGUwOh.png"  style="width:150px;height:150px;">
